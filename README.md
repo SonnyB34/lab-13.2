@@ -1,4 +1,4 @@
-# Digital BookShelf (Lab-13.2)
+# Digital Book Shelf (Lab-13.2)
 
 A digital bookshelf created using RESTful API. This API supports creating new book records, viewing the list of all books, finding a specific book by its ID, updating a book's information, and removing a book from the collection.
 
