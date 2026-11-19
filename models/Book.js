@@ -13,7 +13,7 @@ const bookSchema = new Schema({
     type: String,
     unique: true,
   },
-  publishedDate: Date(),
+  publishedDate: Date,
   inStock: {
     type: Boolean,
     default: true,
